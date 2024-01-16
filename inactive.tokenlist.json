@@ -14,7 +14,7 @@
       "name": "Ring Exchange",
       "symbol": "RNG",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Few-Protocol/token-list/master/assets/asset_RNG.svg",
+      "logoURI": "https://raw.githubusercontent.com/Few-Protocol/token-list/ring-interface/assets/asset_RNG.svg",
       "extensions": {
         "opListId": "default",
         "opTokenId": "RNG",
